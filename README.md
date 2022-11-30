@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniciussmendes
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning C/C++; Python and SQL
+- 🌱 I’m currently learning Ciencia de Dados.
 - 💞️ I’m looking to collaborate on the financial market
 - 📫 I want an internship or be a JR.
 
